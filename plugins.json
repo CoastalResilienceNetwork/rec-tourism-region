@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        {
+            "repo": "recreation_tourism",
+            "name": "recreation-tourism"
+        }
+    ]
+}
